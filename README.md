@@ -67,4 +67,4 @@ Performance ratings vary across job roles, enabling further analysis of role-wis
 
 5. Screenshots/ Demos
 
-Dashboard's Screenshot :-  
+Dashboard's Preview :- https://github.com/ShubhamGaru/HR-Dashboard-/blob/main/HR%20Dashboard%20Screenshot.png 
