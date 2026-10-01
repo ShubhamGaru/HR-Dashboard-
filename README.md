@@ -5,6 +5,7 @@
  HR Analytics & Employee Attrition Dashboard – Power BI
 
 
+
 2. Short Description / Purpose
 
  This HR Analytics Dashboard is an interactive Power BI report designed to analyze employee workforce data and understand employee attrition, active employees,     demographics, departments, education, job roles, and performance ratings.
@@ -13,6 +14,7 @@
  To identify attrition patterns based on age, gender, department, education and job role.
  To monitor key HR KPIs such as total employees, active employees, attrition count and attrition rate.
  To provide an interactive and easy-to-understand HR analytics solution for data-driven workforce analysis.
+
 
 
 3. Tools & Technologies Used
@@ -26,9 +28,12 @@
  📈 Data Analysis – Attrition, demographics, departments & performance insights.
 
 
+
 4. Data Source
  
  📄 HR Employee Dataset – Employee demographics, job details, department, education, performance ratings and attrition-related data.
+
+
 
 5. Features / Highlights
 
@@ -65,6 +70,7 @@
  R&D has the highest attrition count among the displayed departments.
  The dashboard shows noticeable differences in attrition across age bands, gender, and education fields.
  Performance ratings vary across job roles, enabling further analysis of role-wise workforce performance.
+
 
 
 6. Screenshots/ Demos
