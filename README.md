@@ -65,6 +65,6 @@ The dashboard shows noticeable differences in attrition across age bands, gender
 Performance ratings vary across job roles, enabling further analysis of role-wise workforce performance.
 
 
-5. Screenshots/ Demos
+6. Screenshots/ Demos
 
 Dashboard's Preview :- https://github.com/ShubhamGaru/HR-Dashboard-/blob/main/HR%20Dashboard%20Screenshot.png 
