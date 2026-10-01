@@ -75,4 +75,4 @@
 
 6. Screenshots/ Demos
 
- Dashboard's Preview :- (https://github.com/ShubhamGaru/HR-Dashboard-/blob/main/HR%20Dashboard%20Screenshot.png) 
+ Dashboard's Preview :- ![Dashboard Preview](https://github.com/ShubhamGaru/HR-Dashboard-/blob/main/HR%20Dashboard%20Screenshot.png) 
